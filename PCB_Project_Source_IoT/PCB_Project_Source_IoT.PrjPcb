@@ -227,6 +227,34 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[Parameter1]
+Name=Rev
+Value=v.0.1
+
+[Parameter2]
+Name=NumeroContrato
+Value=1º Contrato
+
+[Parameter3]
+Name=Conta
+Value=Virtus CC
+
+[Parameter4]
+Name=Revisor
+Value=Fulano de Tal
+
+[Parameter5]
+Name=Projetista
+Value=Jonatas Rodrigo Kinas
+
+[Parameter6]
+Name=Projeto
+Value=Virtus CC
+
+[Parameter7]
+Name=TituloProjeto
+Value=Fonte Padrão IoT
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
