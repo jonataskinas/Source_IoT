@@ -287,6 +287,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPXWCRFE
 
+[Document15]
+DocumentPath=Schematics\Sheet7_Mecânica.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ETLKMXUK
+
 [ProjectVariant1]
 UniqueId=2fb7dc04-bcae-4be7-93f6-555a65d1157a
 Description=Assembly
